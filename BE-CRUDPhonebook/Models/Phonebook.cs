@@ -1,4 +1,5 @@
-﻿namespace BE_CRUDPhonebook.Models
+﻿
+namespace BE_CRUDPhonebook.Models
 {
     public class Phonebook
     {
